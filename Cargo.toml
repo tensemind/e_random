@@ -1,0 +1,8 @@
+[package]
+name = "e_random"
+version = "0.1.0"
+authors = ["Marko Popp <marko.popp@tieto.com>"]
+edition = "2018"
+
+[dependencies]
+rand = "0.6.5"
