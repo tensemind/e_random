@@ -1,6 +1,6 @@
 import random
 
-i = 1000000
+i = 10000000
 t_sum = 0
 for n in range(i):
     x = 0
